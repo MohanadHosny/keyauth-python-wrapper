@@ -1,12 +1,12 @@
 from setuptools import setup, find_packages
 
-VERSION = '0.0.3'
+VERSION = '0.1'
 DESCRIPTION = 'Api Wrapper for KeyAuth.com'
 LONG_DESCRIPTION = 'Api Wrapper in Python made for KeyAuth.com'
 
 # Setting up
 setup(
-    name="keyauth",
+    name="keyauthy",
     version=VERSION,
     author="Mohanad Hosny",
     description=DESCRIPTION,
